@@ -3,6 +3,7 @@
 // based on http://www.henriquebarroso.com/how-to-create-a-simple-mvc-framework-in-php/
 // This article can't be found now.
 // new1
+// new2
 error_reporting( E_ALL );
 ini_set( "display_errors", 1 );
 
