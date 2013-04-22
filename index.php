@@ -2,7 +2,7 @@
 // this is a 2k micro mvc 'thing'.., what you looking for in inside ./application directory
 // based on http://www.henriquebarroso.com/how-to-create-a-simple-mvc-framework-in-php/
 // This article can't be found now.
-
+// new1
 error_reporting( E_ALL );
 ini_set( "display_errors", 1 );
 
